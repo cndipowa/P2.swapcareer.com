@@ -230,3 +230,156 @@
     [REDIRECT_STATUS] => 200
     [HTTP_H 
 2013-11-06 7:35:40 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 11:58:15 - INFO --> -------------------------- 
+2013-11-06 11:58:15 - INFO --> Controller/Method: users/p_login 
+2013-11-06 11:58:15 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 11:58:15 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 11:58:15 - INFO --> CC:  
+2013-11-06 11:58:15 - INFO --> BCC:  
+2013-11-06 11:58:15 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 11:58:15 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => c 
+2013-11-06 11:58:25 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 11:59:33 - INFO --> -------------------------- 
+2013-11-06 11:59:33 - INFO --> Controller/Method: users/p_login 
+2013-11-06 11:59:33 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 11:59:33 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 11:59:33 - INFO --> CC:  
+2013-11-06 11:59:33 - INFO --> BCC:  
+2013-11-06 11:59:33 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 11:59:33 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => c 
+2013-11-06 11:59:43 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 12:02:58 - INFO --> -------------------------- 
+2013-11-06 12:02:58 - INFO --> Controller/Method: users/p_login 
+2013-11-06 12:02:58 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 12:02:58 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 12:02:58 - INFO --> CC:  
+2013-11-06 12:02:58 - INFO --> BCC:  
+2013-11-06 12:02:58 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 12:02:58 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [email] => che@che.com
+    
+2013-11-06 12:03:08 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:04:45 - INFO --> -------------------------- 
+2013-11-06 13:04:45 - INFO --> Controller/Method: users/p_login 
+2013-11-06 13:04:45 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:04:45 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:04:45 - INFO --> CC:  
+2013-11-06 13:04:45 - INFO --> BCC:  
+2013-11-06 13:04:45 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:04:45 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [password] => 2f58d9cbd6c8 
+2013-11-06 13:04:55 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:04:55 - INFO --> -------------------------- 
+2013-11-06 13:04:55 - INFO --> Controller/Method: users/p_login 
+2013-11-06 13:04:55 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:04:55 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:04:55 - INFO --> CC:  
+2013-11-06 13:04:55 - INFO --> BCC:  
+2013-11-06 13:04:55 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:04:55 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_login<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [password] => 2f58d9cbd6c8 
+2013-11-06 13:08:42 - INFO --> -------------------------- 
+2013-11-06 13:08:42 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:08:42 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:08:42 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:08:42 - INFO --> CC:  
+2013-11-06 13:08:42 - INFO --> BCC:  
+2013-11-06 13:08:42 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:08:42 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [firstname] => syoum
+     
+2013-11-06 13:08:52 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:13:12 - INFO --> -------------------------- 
+2013-11-06 13:13:12 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:13:12 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:13:12 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:13:12 - INFO --> CC:  
+2013-11-06 13:13:12 - INFO --> BCC:  
+2013-11-06 13:13:12 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:13:12 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] => 1383761592
+  
+2013-11-06 13:13:22 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:13:55 - INFO --> -------------------------- 
+2013-11-06 13:13:55 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:13:55 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:13:55 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:13:55 - INFO --> CC:  
+2013-11-06 13:13:55 - INFO --> BCC:  
+2013-11-06 13:13:55 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:13:55 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] => 1383761635
+  
+2013-11-06 13:14:05 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:16:25 - INFO --> -------------------------- 
+2013-11-06 13:16:25 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:16:25 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:16:25 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:16:25 - INFO --> CC:  
+2013-11-06 13:16:25 - INFO --> BCC:  
+2013-11-06 13:16:25 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:16:25 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [created] = 
+2013-11-06 13:16:35 - INFO --> FAILED TO SEND EMAIL 
+2013-11-06 13:17:16 - INFO --> -------------------------- 
+2013-11-06 13:17:16 - INFO --> Controller/Method: users/p_signup 
+2013-11-06 13:17:16 - INFO --> From: Swapcareer (ndipowa@yahoo.com) 
+2013-11-06 13:17:16 - INFO --> To: Swapcareer (ndipowa@gmail.com),  
+2013-11-06 13:17:16 - INFO --> CC:  
+2013-11-06 13:17:16 - INFO --> BCC:  
+2013-11-06 13:17:16 - INFO --> Subject: Swapcareer SQL Error 
+2013-11-06 13:17:16 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'swapcare_che'@'149.47.143.250' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 8a75dda06b5fcc970c411f4085c62cc9
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [firstname] 
+2013-11-06 13:17:26 - INFO --> FAILED TO SEND EMAIL 
