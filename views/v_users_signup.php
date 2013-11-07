@@ -9,7 +9,7 @@
     <tr><td> Password   </td><td><input type="password" name="password" required><br><br></td></tr>
     
     
-     <tr><td>Upload a picture:</td> <td><input type="file" name="file"><br></td></tr>
+     <tr><td>Upload a picture:</td> <td><input type="file" name="file" required><br></td></tr>
     
      <tr><td>Submit</td><td><input type="submit" value="Sign Up"><br></td></tr>
     </table>

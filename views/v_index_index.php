@@ -1,9 +1,9 @@
 <?php if($user): ?>
-<h3>Hello <?=$user->firstname; echo '<pre>'; 
-?>
+<h3>Hello <?=$user->firstname; 
+?></h3> <img src = "<?=$user->imagepath;?>" alt="Smiley face" width="42" height="42">
 <?php else:?>
 
-Please sign up or login, thanks.</h3>
+<h3>Please sign up or login, thanks.</h3>
 
 <?php endif; ?>
 
@@ -16,7 +16,7 @@ Please sign up or login, thanks.</h3>
 <li>Display of images of users near user names</li>
 <li>Time of last update of the site. </li>
 <li>Validation to only allow "gif", "jpeg", "jpg" or "png" files to be uploaded as profile images</li>
-<li>Sign up information fields are ALL required at the client side except the user's photo for which there is a default set in the database.</li>
+<li>Sign up information fields are ALL required at the client side.</li>
 <li>Valid email addresses are needed for sign up</li>
 <li>Users are sent to the login page after sign up</li>
 </ol>  
